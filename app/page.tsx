@@ -17,7 +17,7 @@ export default function Home() {
           I build <span className="underline">end-to-end</span> web applications
         </h1>
         <a
-          href="mailto:madhawk1296@gmail.com"
+          href="/contact"
           className="mt-8 px-6 py-3 bg-foreground text-white rounded-md font-medium hover:bg-gray-800 transition-colors"
         >
           Get in touch

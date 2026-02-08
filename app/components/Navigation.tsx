@@ -24,7 +24,7 @@ export default function Navigation() {
           <Link href="/skills" className="text-sm text-gray-600 hover:text-foreground transition-colors font-medium">
             Skills
           </Link>
-          <Link href="mailto:madhawk1296@gmail.com" className="text-sm px-3 py-1.5 bg-foreground text-white rounded-md font-medium hover:bg-gray-800 transition-colors">
+          <Link href="/contact" className="text-sm px-3 py-1.5 bg-foreground text-white rounded-md font-medium hover:bg-gray-800 transition-colors">
             Get in touch
           </Link>
         </div>
@@ -80,7 +80,7 @@ export default function Navigation() {
 
             {/* CTA at bottom */}
             <div className="mt-auto p-6">
-              <Link href="mailto:madhawk1296@gmail.com" onClick={() => setIsMenuOpen(false)} className="block text-center px-4 py-3 bg-foreground text-white rounded-md font-medium hover:bg-gray-800 transition-colors">
+              <Link href="/contact" onClick={() => setIsMenuOpen(false)} className="block text-center px-4 py-3 bg-foreground text-white rounded-md font-medium hover:bg-gray-800 transition-colors">
                 Get in touch
               </Link>
             </div>
