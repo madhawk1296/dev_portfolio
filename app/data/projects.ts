@@ -26,7 +26,6 @@ export const projects: Project[] = [
     shortDescription: "No-code subgraph builder for blockchain data",
     techStack: ["React", "TypeScript", "GraphQL", "The Graph", "Ethereum"],
     githubUrl: "https://github.com/madhawk1296/spyder_website",
-    liveUrl: "https://spyder-app.vercel.app",
     imageUrls: ["/projects/spyder.png"],
   },
   {
@@ -36,7 +35,6 @@ export const projects: Project[] = [
     shortDescription: "NFT marketplace for bulk sales on Arbitrum",
     techStack: ["Next.js", "Solidity", "Arbitrum", "IPFS", "Wagmi"],
     githubUrl: "https://github.com/madhawk1296/bundlr_app",
-    liveUrl: "https://bundlr-nft.vercel.app",
     imageUrls: ["/projects/bundlr.png"],
   },
   {
@@ -46,7 +44,6 @@ export const projects: Project[] = [
     shortDescription: "AI chatbot trained on personal resume data",
     techStack: ["Next.js", "OpenAI", "LangChain", "Pinecone", "TypeScript"],
     githubUrl: "https://github.com/madhawk1296/portfolioGPT",
-    liveUrl: "https://portfolio-gpt.vercel.app",
     imageUrls: ["/projects/portfoliogpt.png"],
   },
   {
@@ -56,7 +53,6 @@ export const projects: Project[] = [
     shortDescription: "AI-powered finance dashboard",
     techStack: ["React", "Python", "FastAPI", "OpenAI", "PostgreSQL"],
     githubUrl: "https://github.com/madhawk1296/simplybudget",
-    liveUrl: "https://simply-budget.vercel.app",
     imageUrls: ["/projects/simplybudget.png"],
   },
   {
@@ -66,7 +62,6 @@ export const projects: Project[] = [
     shortDescription: "AI recipe generator for health enthusiasts",
     techStack: ["Next.js", "OpenAI", "Tailwind CSS", "Prisma", "TypeScript"],
     githubUrl: "https://github.com/madhawk1296/recipe_ai",
-    liveUrl: "https://recipe-ai.vercel.app",
     imageUrls: ["/projects/recipe-ai.png"],
   },
   // Secondary Projects
